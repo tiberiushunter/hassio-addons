@@ -9,7 +9,7 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 
-![Project Maintenance][maintenance-shield] 
+![Project Maintenance][maintenance-shield]
 [![MIT License][license-shield]][license-url]
 
 [![Contributors][contributors-shield]][contributors-url]
@@ -22,6 +22,7 @@
 
 A repository for my addons created for Home Assistant
 
+<!-- ADDONS -->
 ## Addons
 
 - *Nothing to see here... yet*
@@ -47,10 +48,10 @@ Distributed under the MIT License. See [LICENSE][license-url] for more informati
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 
-* [rxaiver's GitHub Emoji Cheat Sheet][1]
-* [Img Shields][2]
-* [Choose an Open Source License][3]
-* [othneildrew's Best README Template][4]
+- [rxaiver's GitHub Emoji Cheat Sheet][1]
+- [Img Shields][2]
+- [Choose an Open Source License][3]
+- [othneildrew's Best README Template][4]
 
 <!-- CONTACT -->
 ## Contact
